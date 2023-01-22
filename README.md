@@ -1,4 +1,4 @@
-# N0rn-BackdoorV2
+# N0RN-BackdoorV2
 
 Here's The Backdoor Image, You Can See it Below ^^
 
