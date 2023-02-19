@@ -10,4 +10,4 @@ Here's The Backdoor Image, You Can See it Below ^^ <br>
 <i>Since the shell died on the CSS part and couldn't be reused, I just rebuilt and redesigned how it looks.<i>
 
 
-![N0rnBackdoorV2](https://github.com/0x0v0/N0rn-BackdoorV2/blob/main/capture.png)
+[![N0rnBackdoorV2](https://github.com/0x0v0/N0rn-BackdoorV2/blob/main/capture.png)](https://github.com/0x0v0/N0rn-BackdoorV2/blob/main/Capture.png)
