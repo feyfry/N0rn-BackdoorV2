@@ -8,6 +8,6 @@ Here's The Backdoor Image, You Can See it Below ^^ <br>
 
 ![N0RN-BackdoorV2](https://github.com/0x0v0/N0rn-BackdoorV2/blob/main/Capture.png)
 
-***Recoded by Me, Original Source by IndoXploitShell.***
+***Recoded by Me, Original Source by Unknown45.***
 
 <i>Since the shell died on the CSS part and couldn't be reused, I just rebuilt and redesigned how it looks.<i>
